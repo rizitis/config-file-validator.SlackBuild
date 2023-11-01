@@ -1,4 +1,4 @@
-README.Slackware:
+# README.Slackware:
 
 If you have *google-go-lang* settings for user as suggested in SBo then you must ran this SlackBuild script as **regular user and NOT as root**. 
 
