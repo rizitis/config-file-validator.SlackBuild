@@ -7,7 +7,9 @@ So only for installpkg you need root access...
 
 example:
 
-(# installpkg /tmp/config-file-validator-1.4.0-x86_64-1_rtz.txz)
+```
+# installpkg /tmp/config-file-validator-1.4.0-x86_64-1_rtz.txz
+```
 
 Read SlackBuild... before you ran it.
 
