@@ -8,10 +8,13 @@ So only for installpkg you need root access...
 example:
 
 ```
-# installpkg /tmp/config-file-validator-1.4.0-x86_64-1_rtz.txz
+# upgradepkg --install-new --reinstall /tmp/config-file-validator-1.4.0-x86_64-1_rtz.txz
 ```
 
 Read SlackBuild... before you ran it.
+
+### info
+Master is always building latest version of validator, for older versions chose a branche.  
 
 ### HOWTO
 https://github.com/Boeing/config-file-validator
