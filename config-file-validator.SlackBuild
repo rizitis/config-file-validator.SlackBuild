@@ -23,8 +23,8 @@
 cd $(dirname $0) ; CWD=$(pwd)
 
 PRGNAM=config-file-validator			
-VERSION=${VERSION:-1.4.0}
-GVERS=v1.4.0.tar.gz
+VERSION=${VERSION:-1.5.0}
+GVERS=v1.5.0.tar.gz
 LINK=https://github.com/Boeing/config-file-validator/archive/refs/tags/
 SUM="--no-check-certificate"
 BUILD=${BUILD:-1}
