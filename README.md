@@ -14,7 +14,7 @@ example:
 Read SlackBuild... before you ran it.
 
 ### info
-Master is always building latest version of validator, for older versions chose a branche.  
+Main is always building latest version of validator, for older versions chose a branche.  
 
 ### HOWTO
 https://github.com/Boeing/config-file-validator
